@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Mounika 👋
 
-<!--
-**Mounika45-vq/Mounika45-vq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | AI Trainee | Python & SQL Learner
 
-Here are some ideas to get you started:
+I am a Computer Science Engineering student and currently an AI Trainee at Calibo.  
+I am learning Python and SQL through practical assignments and hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Learning
+- Python
+- SQL & MySQL
+- NumPy
+- Git & GitHub
+
+### Projects & Practice
+- C Programming Practice
+- SQL Practical Assignments
+- Python Practice
+- NumPy Learning
+
+### Goals
+- Improve my programming skills
+- Build practical projects
+- Learn and explore AI technologies
+- Grow through continuous learning
+
+### Connect with me
+- LinkedIn: [Mounika Parasa](https://www.linkedin.com/in/mounika-parasa-bab32b378/)
+- GitHub: [Mounika45-vq](https://github.com/Mounika45-vq)
