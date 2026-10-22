@@ -1,27 +1,31 @@
 # Hi, I'm Mounika 👋
 
-### CSE Student | AI Trainee | Python & SQL Learner
+### B.Tech CSE Student | AI Trainee at Calibo AI Academy
 
-I am a Computer Science Engineering student and currently an AI Trainee at Calibo.  
-I am learning Python and SQL through practical assignments and hands-on projects.
+I'm a Computer Science Engineering student interested in Python, data analysis, and AI technologies.
 
-### Currently Learning
-- Python
-- SQL & MySQL
-- NumPy
-- Git & GitHub
+Currently, I'm building my technical skills through hands-on practice, assignments, and projects.
+
+### Skills & Currently Learning
+
+- **Programming:** C, Python
+- **Database:** SQL, MySQL
+- **Data Analysis:** NumPy, Pandas
+- **Data Visualization:** Matplotlib, Seaborn
+- **Tools:** Git, GitHub
 
 ### Projects & Practice
-- C Programming Practice
-- SQL Practical Assignments
-- Python Practice
-- NumPy Learning
+
+- [C Programming Practice](https://github.com/Mounika45-vq/C-Programming-Practice)
+- [SQL Practical Assignments](https://github.com/Mounika45-vq/SQL-Practical-Assignments)
+- [Python Learning](https://github.com/Mounika45-vq/Python-Learning)
 
 ### Goals
-- Improve my programming skills
-- Build practical projects
-- Learn and explore AI technologies
-- Grow through continuous learning
+
+- Strengthen programming and problem-solving skills
+- Build practical projects using Python and SQL
+- Explore data analysis and AI technologies
+- Learn consistently and collaborate with others
 
 ### Connect with me
 - LinkedIn: [Mounika Parasa](https://www.linkedin.com/in/mounika-parasa-bab32b378/)
