@@ -56,3 +56,6 @@
 ### 💻 Most Used Languages
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Mounika45-vq&layout=compact)
+### 🔥 GitHub Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mounika45-vq)
