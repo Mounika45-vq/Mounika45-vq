@@ -1,32 +1,49 @@
-# Hi, I'm Mounika 👋
+### 👩‍💻 About Me
 
-### B.Tech CSE Student | AI Trainee at Calibo AI Academy
+- 🎓 B.Tech student specializing in Computer Science and Engineering.
+- 🤖 Currently an AI Trainee at Calibo AI Academy.
+- 🐍 Learning Python and improving my programming skills through practice.
+- 🗄️ Learning SQL and MySQL for database management.
+- 📊 Learning data analysis and visualization using NumPy, Pandas, Matplotlib, and Seaborn.
+- 🚀 Continuously working to improve my technical knowledge and practical skills.
 
-I'm a Computer Science Engineering student interested in Python, data analysis, and AI technologies.
+### 🛠️ Technical Skills
 
-Currently, I'm building my technical skills through hands-on practice, assignments, and projects.
+**Programming Languages**
+- C
+- Python (Currently Learning)
 
-### Skills & Currently Learning
+**Database**
+- SQL
+- MySQL (Currently Learning)
 
-- **Programming:** C, Python
-- **Database:** SQL, MySQL
-- **Data Analysis:** NumPy, Pandas
-- **Data Visualization:** Matplotlib, Seaborn
-- **Tools:** Git, GitHub
+**Data Analysis**
+- NumPy
+- Pandas
 
-### Projects & Practice
+**Data Visualization**
+- Matplotlib (Currently Learning)
+- Seaborn (Currently Learning)
 
-- [C Programming Practice](https://github.com/Mounika45-vq/C-Programming-Practice)
-- [SQL Practical Assignments](https://github.com/Mounika45-vq/SQL-Practical-Assignments)
-- [Python Learning](https://github.com/Mounika45-vq/Python-Learning)
+**Tools**
+- Git
+- GitHub
+- Visual Studio Code
 
-### Goals
+### 🌱 Currently Learning & Improving
 
-- Strengthen programming and problem-solving skills
-- Build practical projects using Python and SQL
-- Explore data analysis and AI technologies
-- Learn consistently and collaborate with others
+- Improving Python programming and problem-solving skills.
+- Learning SQL and practicing database queries.
+- Exploring data analysis using NumPy and Pandas.
+- Learning data visualization with Matplotlib and Seaborn.
+- Practicing different visualization techniques and improving my understanding through hands-on exercises.
+- Exploring AI and new technologies.
+- Continuously improving my technical skills through assignments and projects.
 
-### Connect with me
-- LinkedIn: [Mounika Parasa](https://www.linkedin.com/in/mounika-parasa-bab32b378/)
-- GitHub: [Mounika45-vq](https://github.com/Mounika45-vq)
+### 🎯 Goals
+
+- Strengthen programming and problem-solving skills.
+- Improve my knowledge of Python, SQL, and data visualization.
+- Build practical projects using the technologies I'm learning.
+- Explore Artificial Intelligence and data-related technologies.
+- Keep learning, practicing, and improving every day.
