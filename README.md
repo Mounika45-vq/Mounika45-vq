@@ -47,3 +47,14 @@
 - Build practical projects using the technologies I'm learning.
 - Explore Artificial Intelligence and data-related technologies.
 - Keep learning, practicing, and improving every day.
+---
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mounika45-vq&show_icons=true&theme=default)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mounika45-vq&layout=compact&theme=default)
+
+---
