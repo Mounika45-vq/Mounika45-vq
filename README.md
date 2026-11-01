@@ -51,10 +51,8 @@
 
 ### 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mounika45-vq&show_icons=true&theme=default)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Mounika45-vq&show_icons=true)
 
 ### 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mounika45-vq&layout=compact&theme=default)
-
----
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=Mounika45-vq&layout=compact)
