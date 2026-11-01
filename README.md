@@ -59,3 +59,14 @@
 ### 🔥 GitHub Contribution Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Mounika45-vq)
+### 🌱 Technologies I'm Learning & Improving
+
+![C](https://img.shields.io/badge/C-Learning%20%26%20Improving-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Learning%20%26%20Improving-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Learning%20%26%20Improving-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Learning%20%26%20Improving-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Learning%20%26%20Improving-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Learning%20%26%20Improving-orange?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-Learning%20%26%20Improving-blue?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Learning%20%26%20Improving-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Learning%20%26%20Improving-181717?style=for-the-badge&logo=github&logoColor=white)
