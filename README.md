@@ -68,5 +68,4 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Learning%20%26%20Improving-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Learning%20%26%20Improving-orange?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-Learning%20%26%20Improving-blue?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Learning%20%26%20Improving-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Learning%20%26%20Improving-181717?style=for-the-badge&logo=github&logoColor=white)
+
